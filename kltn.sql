@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: May 15, 2021 at 10:10 AM
+-- Generation Time: May 15, 2021 at 10:28 AM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.3
 
@@ -551,7 +551,7 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (12, 12, '_edit_lock', '1620814694:1'),
 (13, 12, '_edit_last', '1'),
 (14, 12, '_footer', 'normal'),
-(15, 14, '_edit_lock', '1621065705:1'),
+(15, 14, '_edit_lock', '1621067276:1'),
 (16, 14, '_edit_last', '1'),
 (17, 14, '_footer', 'normal'),
 (18, 17, '_edit_lock', '1621066079:1'),
@@ -609,11 +609,12 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (11, 1, '2021-05-12 10:17:45', '0000-00-00 00:00:00', '', 'Auto Draft', '', 'auto-draft', 'closed', 'closed', '', '', '', '', '2021-05-12 10:17:45', '0000-00-00 00:00:00', '', 0, 'http://localhost/kltn/?page_id=11', 0, 'page', '', 0),
 (12, 1, '2021-05-12 10:18:13', '2021-05-12 10:18:13', '<!-- wp:html -->\nHHHHHHHHHHHH\n<!-- /wp:html -->', 'HHHHHHHH', '', 'publish', 'closed', 'closed', '', 'hhhhhhhh', '', '', '2021-05-12 10:18:14', '2021-05-12 10:18:14', '', 0, 'http://localhost/kltn/?page_id=12', 0, 'page', '', 0),
 (13, 1, '2021-05-12 10:18:13', '2021-05-12 10:18:13', '<!-- wp:html -->\nHHHHHHHHHHHH\n<!-- /wp:html -->', 'HHHHHHHH', '', 'inherit', 'closed', 'closed', '', '12-revision-v1', '', '', '2021-05-12 10:18:13', '2021-05-12 10:18:13', '', 12, 'http://localhost/kltn/?p=13', 0, 'revision', '', 0),
-(14, 1, '2021-05-15 07:58:42', '2021-05-15 07:58:42', '<!-- wp:html -->\n<h1> HOOHOHOHOHOHOHOHOHOHOHOHOHOHOHO </h1>\n<!-- /wp:html -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->', 'PPPPPPPPPPPPPPPPPPPPP', '', 'publish', 'closed', 'closed', '', 'ppppppppppppppppppppp', '', '', '2021-05-15 08:01:44', '2021-05-15 08:01:44', '', 0, 'http://localhost/kltn/?page_id=14', 0, 'page', '', 0),
+(14, 1, '2021-05-15 07:58:42', '2021-05-15 07:58:42', '<!-- wp:html -->\n<h1> PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP </h1>\n<!-- /wp:html -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->', 'PPPPPPPPPPPPPPPPPPPPP', '', 'publish', 'closed', 'closed', '', 'ppppppppppppppppppppp', '', '', '2021-05-15 08:27:11', '2021-05-15 08:27:11', '', 0, 'http://localhost/kltn/?page_id=14', 0, 'page', '', 0),
 (15, 1, '2021-05-15 07:58:42', '2021-05-15 07:58:42', '<!-- wp:html -->\n<h1> PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP </h1>\n<!-- /wp:html -->', 'PPPPPPPPPPPPPPPPPPPPP', '', 'inherit', 'closed', 'closed', '', '14-revision-v1', '', '', '2021-05-15 07:58:42', '2021-05-15 07:58:42', '', 14, 'http://localhost/kltn/?p=15', 0, 'revision', '', 0),
 (16, 1, '2021-05-15 08:01:40', '2021-05-15 08:01:40', '<!-- wp:html -->\n<h1> HOOHOHOHOHOHOHOHOHOHOHOHOHOHOHO </h1>\n<!-- /wp:html -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->', 'PPPPPPPPPPPPPPPPPPPPP', '', 'inherit', 'closed', 'closed', '', '14-revision-v1', '', '', '2021-05-15 08:01:40', '2021-05-15 08:01:40', '', 14, 'http://localhost/kltn/?p=16', 0, 'revision', '', 0),
 (17, 1, '2021-05-15 08:02:07', '2021-05-15 08:02:07', '<!-- wp:html -->\nfasdfasdfsadfsdfsdafsdafsdaf\n<!-- /wp:html -->', 'asdfsafdsafsdafsdafsda', '', 'publish', 'closed', 'closed', '', 'asdfsafdsafsdafsdafsda', '', '', '2021-05-15 08:02:07', '2021-05-15 08:02:07', '', 0, 'http://localhost/kltn/?page_id=17', 0, 'page', '', 0),
-(18, 1, '2021-05-15 08:02:07', '2021-05-15 08:02:07', '<!-- wp:html -->\nfasdfasdfsadfsdfsdafsdafsdaf\n<!-- /wp:html -->', 'asdfsafdsafsdafsdafsda', '', 'inherit', 'closed', 'closed', '', '17-revision-v1', '', '', '2021-05-15 08:02:07', '2021-05-15 08:02:07', '', 17, 'http://localhost/kltn/?p=18', 0, 'revision', '', 0);
+(18, 1, '2021-05-15 08:02:07', '2021-05-15 08:02:07', '<!-- wp:html -->\nfasdfasdfsadfsdfsdafsdafsdaf\n<!-- /wp:html -->', 'asdfsafdsafsdafsdafsda', '', 'inherit', 'closed', 'closed', '', '17-revision-v1', '', '', '2021-05-15 08:02:07', '2021-05-15 08:02:07', '', 17, 'http://localhost/kltn/?p=18', 0, 'revision', '', 0),
+(19, 1, '2021-05-15 08:27:06', '2021-05-15 08:27:06', '<!-- wp:html -->\n<h1> PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP </h1>\n<!-- /wp:html -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->', 'PPPPPPPPPPPPPPPPPPPPP', '', 'inherit', 'closed', 'closed', '', '14-revision-v1', '', '', '2021-05-15 08:27:06', '2021-05-15 08:27:06', '', 14, 'http://localhost/kltn/?p=19', 0, 'revision', '', 0);
 
 -- --------------------------------------------------------
 
@@ -1831,7 +1832,7 @@ ALTER TABLE `wp_postmeta`
 -- AUTO_INCREMENT for table `wp_posts`
 --
 ALTER TABLE `wp_posts`
-  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
 
 --
 -- AUTO_INCREMENT for table `wp_social_users`
